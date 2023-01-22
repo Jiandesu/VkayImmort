@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VkayImmort
 - 👀 I’m interested in C/C++
-- 🌱 I’m currently learning Figma
-- 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me ... iamvkay@outlook.com
+- 🌱 I’m currently learning -> Figma
+- 💞️ I’m looking to collaborate on -> frontend projects
+- 📫 How to reach me -> iamvkay@outlook.com
 
 <!---
 VkayImmort/VkayImmort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
