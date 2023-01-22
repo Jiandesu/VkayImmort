@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VkayImmort
 - 👀 I’m interested in C/C++
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Figma
+- 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me ... iamvkay@outlook.com
 
 <!---
