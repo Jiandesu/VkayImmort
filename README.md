@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VkayImmort
+- 👋 Hi, I’m @Jiandesu
 - 👀 I’m interested in C/C++
 - 🌱 I’m currently learning -> Figma
 - 💞️ I’m looking to collaborate on -> frontend projects
